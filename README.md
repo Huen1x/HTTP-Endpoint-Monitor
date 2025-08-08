@@ -10,7 +10,7 @@
 
    ```bash
    git clone https://github.com/Huen1x/HTTP-Endpoint-Monitor.git
-   cd endpoint-monitor
+   cd http-endpoint-monitor
    ```
 
 2. Установите зависимости:
