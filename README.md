@@ -94,8 +94,8 @@
 
 Проект покрыт тестами с использованием **pytest**.
 
-* **tests/test/logic.py** — unit-тесты для логики инкремента счётчика
-* **tests/test/api.py** — интеграционные тесты для REST API с SQLite
+* **tests/test/test_logic.py** — unit-тесты для логики инкремента счётчика
+* **tests/test/test_api.py** — интеграционные тесты для REST API с SQLite
 
 ### Запуск тестов
 
