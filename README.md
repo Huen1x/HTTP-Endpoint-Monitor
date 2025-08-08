@@ -9,7 +9,7 @@
 1. Клонируйте репозиторий и перейдите в корень проекта:
 
    ```bash
-   git clone https://github.com/yourname/endpoint-monitor.git
+   git clone https://github.com/Huen1x/HTTP-Endpoint-Monitor.git
    cd endpoint-monitor
    ```
 
